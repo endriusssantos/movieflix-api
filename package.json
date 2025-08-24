@@ -5,6 +5,7 @@
   "scripts": {
     "dev": "npx tsx watch src/server.ts"
   },
+  "type": "module",
   "keywords": [],
   "author": "",
   "license": "ISC",
